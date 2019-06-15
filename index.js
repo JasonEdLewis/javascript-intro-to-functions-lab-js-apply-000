@@ -12,5 +12,5 @@ let logShout =(string)=>{
   
 };
 let logWhisper(){
-  console.log(whisper());
+  console.log(whisper);
 }
