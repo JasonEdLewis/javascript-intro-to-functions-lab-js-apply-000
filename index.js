@@ -11,6 +11,6 @@ let logShout =(string)=>{
   console.log(string.toUpperCase());
   
 };
-let logWhisper= ()=> {
-  console.log(whisper());
+let logWhisper= (string)=> {
+  console.log(string.toLowerCase());
 }
