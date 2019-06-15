@@ -14,7 +14,7 @@ let logShout =(string)=>{
 let logWhisper= (string)=> {
   console.log(string.toLowerCase());
 };
-let sayHiToGrandam = (string) => {
+let sayHiToGrandma = (string) => {
   if (string === string.toLowerCase()){
     return 'I cant hear you!'
   }else if (string === string.toUpperCase()){
