@@ -10,4 +10,7 @@ let whisper =(string)=>{
 let logShout =(string)=>{
   console.log(string.toUpperCase());
   
+};
+let logWhisper(){
+  console.log(whisper);
 }
